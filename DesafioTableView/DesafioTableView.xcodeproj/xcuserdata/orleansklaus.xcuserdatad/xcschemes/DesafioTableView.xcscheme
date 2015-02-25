@@ -14,7 +14,7 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "9E811A861A9E189B00EF53F1"
+               BlueprintIdentifier = "9EFB1C381A9E1E9300599B97"
                BuildableName = "DesafioTableView.app"
                BlueprintName = "DesafioTableView"
                ReferencedContainer = "container:DesafioTableView.xcodeproj">
@@ -28,7 +28,7 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "9E811A9F1A9E189C00EF53F1"
+               BlueprintIdentifier = "9EFB1C511A9E1E9300599B97"
                BuildableName = "DesafioTableViewTests.xctest"
                BlueprintName = "DesafioTableViewTests"
                ReferencedContainer = "container:DesafioTableView.xcodeproj">
@@ -46,7 +46,7 @@
             skipped = "NO">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "9E811A9F1A9E189C00EF53F1"
+               BlueprintIdentifier = "9EFB1C511A9E1E9300599B97"
                BuildableName = "DesafioTableViewTests.xctest"
                BlueprintName = "DesafioTableViewTests"
                ReferencedContainer = "container:DesafioTableView.xcodeproj">
@@ -56,7 +56,7 @@
       <MacroExpansion>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "9E811A861A9E189B00EF53F1"
+            BlueprintIdentifier = "9EFB1C381A9E1E9300599B97"
             BuildableName = "DesafioTableView.app"
             BlueprintName = "DesafioTableView"
             ReferencedContainer = "container:DesafioTableView.xcodeproj">
@@ -75,7 +75,7 @@
       <BuildableProductRunnable>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "9E811A861A9E189B00EF53F1"
+            BlueprintIdentifier = "9EFB1C381A9E1E9300599B97"
             BuildableName = "DesafioTableView.app"
             BlueprintName = "DesafioTableView"
             ReferencedContainer = "container:DesafioTableView.xcodeproj">
@@ -93,7 +93,7 @@
       <BuildableProductRunnable>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "9E811A861A9E189B00EF53F1"
+            BlueprintIdentifier = "9EFB1C381A9E1E9300599B97"
             BuildableName = "DesafioTableView.app"
             BlueprintName = "DesafioTableView"
             ReferencedContainer = "container:DesafioTableView.xcodeproj">
