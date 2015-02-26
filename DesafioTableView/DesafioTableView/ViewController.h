@@ -1,5 +1,5 @@
 //
-//  DetalheAppTableViewCell.h
+//  ViewController.h
 //  DesafioTableView
 //
 //  Created by Orleans Klaus on 2/25/15.
@@ -8,6 +8,8 @@
 
 #import <UIKit/UIKit.h>
 
-@interface DetalheAppTableViewCell : UITableViewCell
+@interface ViewController : UIViewController
+
 
 @end
+

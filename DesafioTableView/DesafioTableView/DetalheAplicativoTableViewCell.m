@@ -1,14 +1,14 @@
 //
-//  DetalheAppTableViewCell.m
+//  DetalheAplicativoTableViewCell.m
 //  DesafioTableView
 //
 //  Created by Orleans Klaus on 2/25/15.
 //  Copyright (c) 2015 Orleans Klaus. All rights reserved.
 //
 
-#import "DetalheAppTableViewCell.h"
+#import "DetalheAplicativoTableViewCell.h"
 
-@implementation DetalheAppTableViewCell
+@implementation DetalheAplicativoTableViewCell
 
 - (void)awakeFromNib {
     // Initialization code

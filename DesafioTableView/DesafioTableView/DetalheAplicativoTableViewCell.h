@@ -1,5 +1,5 @@
 //
-//  AplicativoTableViewController.h
+//  DetalheAplicativoTableViewCell.h
 //  DesafioTableView
 //
 //  Created by Orleans Klaus on 2/25/15.
@@ -8,6 +8,8 @@
 
 #import <UIKit/UIKit.h>
 
-@interface AplicativoTableViewController : UITableViewController
+@interface DetalheAplicativoTableViewCell : UITableViewCell
+
+
 
 @end

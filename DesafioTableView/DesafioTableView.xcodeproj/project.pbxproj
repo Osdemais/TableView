@@ -7,53 +7,53 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		9EFB1C3F1A9E1E9300599B97 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 9EFB1C3E1A9E1E9300599B97 /* main.m */; };
-		9EFB1C421A9E1E9300599B97 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 9EFB1C411A9E1E9300599B97 /* AppDelegate.m */; };
-		9EFB1C481A9E1E9300599B97 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 9EFB1C461A9E1E9300599B97 /* Main.storyboard */; };
-		9EFB1C4A1A9E1E9300599B97 /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 9EFB1C491A9E1E9300599B97 /* Images.xcassets */; };
-		9EFB1C4D1A9E1E9300599B97 /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = 9EFB1C4B1A9E1E9300599B97 /* LaunchScreen.xib */; };
-		9EFB1C591A9E1E9400599B97 /* DesafioTableViewTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 9EFB1C581A9E1E9400599B97 /* DesafioTableViewTests.m */; };
-		9EFB1C641A9E1ED000599B97 /* AplicativoTableViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 9EFB1C631A9E1ED000599B97 /* AplicativoTableViewController.m */; };
-		9EFB1C671A9E1F0F00599B97 /* DetalheAppTableViewCell.m in Sources */ = {isa = PBXBuildFile; fileRef = 9EFB1C661A9E1F0F00599B97 /* DetalheAppTableViewCell.m */; };
+		9EA2B1121A9E48B800E9F39A /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 9EA2B1111A9E48B800E9F39A /* main.m */; };
+		9EA2B1151A9E48B800E9F39A /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 9EA2B1141A9E48B800E9F39A /* AppDelegate.m */; };
+		9EA2B11B1A9E48B800E9F39A /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 9EA2B1191A9E48B800E9F39A /* Main.storyboard */; };
+		9EA2B11D1A9E48B800E9F39A /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 9EA2B11C1A9E48B800E9F39A /* Images.xcassets */; };
+		9EA2B1201A9E48B800E9F39A /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = 9EA2B11E1A9E48B800E9F39A /* LaunchScreen.xib */; };
+		9EA2B12C1A9E48B800E9F39A /* DesafioTableViewTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 9EA2B12B1A9E48B800E9F39A /* DesafioTableViewTests.m */; };
+		9EA2B1371A9E495400E9F39A /* AplicativoTableViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 9EA2B1361A9E495400E9F39A /* AplicativoTableViewController.m */; };
+		9EA2B13A1A9E497B00E9F39A /* DetalheAplicativoTableViewCell.m in Sources */ = {isa = PBXBuildFile; fileRef = 9EA2B1391A9E497B00E9F39A /* DetalheAplicativoTableViewCell.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
-		9EFB1C531A9E1E9300599B97 /* PBXContainerItemProxy */ = {
+		9EA2B1261A9E48B800E9F39A /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
-			containerPortal = 9EFB1C311A9E1E9300599B97 /* Project object */;
+			containerPortal = 9EA2B1041A9E48B800E9F39A /* Project object */;
 			proxyType = 1;
-			remoteGlobalIDString = 9EFB1C381A9E1E9300599B97;
+			remoteGlobalIDString = 9EA2B10B1A9E48B800E9F39A;
 			remoteInfo = DesafioTableView;
 		};
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
-		9EFB1C391A9E1E9300599B97 /* DesafioTableView.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = DesafioTableView.app; sourceTree = BUILT_PRODUCTS_DIR; };
-		9EFB1C3D1A9E1E9300599B97 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		9EFB1C3E1A9E1E9300599B97 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
-		9EFB1C401A9E1E9300599B97 /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
-		9EFB1C411A9E1E9300599B97 /* AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
-		9EFB1C471A9E1E9300599B97 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
-		9EFB1C491A9E1E9300599B97 /* Images.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Images.xcassets; sourceTree = "<group>"; };
-		9EFB1C4C1A9E1E9300599B97 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = Base; path = Base.lproj/LaunchScreen.xib; sourceTree = "<group>"; };
-		9EFB1C521A9E1E9300599B97 /* DesafioTableViewTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = DesafioTableViewTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
-		9EFB1C571A9E1E9400599B97 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		9EFB1C581A9E1E9400599B97 /* DesafioTableViewTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = DesafioTableViewTests.m; sourceTree = "<group>"; };
-		9EFB1C621A9E1ED000599B97 /* AplicativoTableViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = AplicativoTableViewController.h; path = ../AplicativoTableViewController.h; sourceTree = "<group>"; };
-		9EFB1C631A9E1ED000599B97 /* AplicativoTableViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = AplicativoTableViewController.m; path = ../AplicativoTableViewController.m; sourceTree = "<group>"; };
-		9EFB1C651A9E1F0F00599B97 /* DetalheAppTableViewCell.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = DetalheAppTableViewCell.h; path = ../DetalheAppTableViewCell.h; sourceTree = "<group>"; };
-		9EFB1C661A9E1F0F00599B97 /* DetalheAppTableViewCell.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = DetalheAppTableViewCell.m; path = ../DetalheAppTableViewCell.m; sourceTree = "<group>"; };
+		9EA2B10C1A9E48B800E9F39A /* DesafioTableView.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = DesafioTableView.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		9EA2B1101A9E48B800E9F39A /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		9EA2B1111A9E48B800E9F39A /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
+		9EA2B1131A9E48B800E9F39A /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
+		9EA2B1141A9E48B800E9F39A /* AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
+		9EA2B11A1A9E48B800E9F39A /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
+		9EA2B11C1A9E48B800E9F39A /* Images.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Images.xcassets; sourceTree = "<group>"; };
+		9EA2B11F1A9E48B800E9F39A /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = Base; path = Base.lproj/LaunchScreen.xib; sourceTree = "<group>"; };
+		9EA2B1251A9E48B800E9F39A /* DesafioTableViewTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = DesafioTableViewTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		9EA2B12A1A9E48B800E9F39A /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		9EA2B12B1A9E48B800E9F39A /* DesafioTableViewTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = DesafioTableViewTests.m; sourceTree = "<group>"; };
+		9EA2B1351A9E495400E9F39A /* AplicativoTableViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = AplicativoTableViewController.h; sourceTree = "<group>"; };
+		9EA2B1361A9E495400E9F39A /* AplicativoTableViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = AplicativoTableViewController.m; sourceTree = "<group>"; };
+		9EA2B1381A9E497B00E9F39A /* DetalheAplicativoTableViewCell.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = DetalheAplicativoTableViewCell.h; sourceTree = "<group>"; };
+		9EA2B1391A9E497B00E9F39A /* DetalheAplicativoTableViewCell.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = DetalheAplicativoTableViewCell.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
-		9EFB1C361A9E1E9300599B97 /* Frameworks */ = {
+		9EA2B1091A9E48B800E9F39A /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		9EFB1C4F1A9E1E9300599B97 /* Frameworks */ = {
+		9EA2B1221A9E48B800E9F39A /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -63,63 +63,63 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
-		9EFB1C301A9E1E9300599B97 = {
+		9EA2B1031A9E48B800E9F39A = {
 			isa = PBXGroup;
 			children = (
-				9EFB1C3B1A9E1E9300599B97 /* DesafioTableView */,
-				9EFB1C551A9E1E9400599B97 /* DesafioTableViewTests */,
-				9EFB1C3A1A9E1E9300599B97 /* Products */,
+				9EA2B10E1A9E48B800E9F39A /* DesafioTableView */,
+				9EA2B1281A9E48B800E9F39A /* DesafioTableViewTests */,
+				9EA2B10D1A9E48B800E9F39A /* Products */,
 			);
 			sourceTree = "<group>";
 		};
-		9EFB1C3A1A9E1E9300599B97 /* Products */ = {
+		9EA2B10D1A9E48B800E9F39A /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				9EFB1C391A9E1E9300599B97 /* DesafioTableView.app */,
-				9EFB1C521A9E1E9300599B97 /* DesafioTableViewTests.xctest */,
+				9EA2B10C1A9E48B800E9F39A /* DesafioTableView.app */,
+				9EA2B1251A9E48B800E9F39A /* DesafioTableViewTests.xctest */,
 			);
 			name = Products;
 			sourceTree = "<group>";
 		};
-		9EFB1C3B1A9E1E9300599B97 /* DesafioTableView */ = {
+		9EA2B10E1A9E48B800E9F39A /* DesafioTableView */ = {
 			isa = PBXGroup;
 			children = (
-				9EFB1C401A9E1E9300599B97 /* AppDelegate.h */,
-				9EFB1C411A9E1E9300599B97 /* AppDelegate.m */,
-				9EFB1C621A9E1ED000599B97 /* AplicativoTableViewController.h */,
-				9EFB1C631A9E1ED000599B97 /* AplicativoTableViewController.m */,
-				9EFB1C651A9E1F0F00599B97 /* DetalheAppTableViewCell.h */,
-				9EFB1C661A9E1F0F00599B97 /* DetalheAppTableViewCell.m */,
-				9EFB1C461A9E1E9300599B97 /* Main.storyboard */,
-				9EFB1C491A9E1E9300599B97 /* Images.xcassets */,
-				9EFB1C4B1A9E1E9300599B97 /* LaunchScreen.xib */,
-				9EFB1C3C1A9E1E9300599B97 /* Supporting Files */,
+				9EA2B1131A9E48B800E9F39A /* AppDelegate.h */,
+				9EA2B1141A9E48B800E9F39A /* AppDelegate.m */,
+				9EA2B1351A9E495400E9F39A /* AplicativoTableViewController.h */,
+				9EA2B1361A9E495400E9F39A /* AplicativoTableViewController.m */,
+				9EA2B1381A9E497B00E9F39A /* DetalheAplicativoTableViewCell.h */,
+				9EA2B1391A9E497B00E9F39A /* DetalheAplicativoTableViewCell.m */,
+				9EA2B1191A9E48B800E9F39A /* Main.storyboard */,
+				9EA2B11C1A9E48B800E9F39A /* Images.xcassets */,
+				9EA2B11E1A9E48B800E9F39A /* LaunchScreen.xib */,
+				9EA2B10F1A9E48B800E9F39A /* Supporting Files */,
 			);
 			path = DesafioTableView;
 			sourceTree = "<group>";
 		};
-		9EFB1C3C1A9E1E9300599B97 /* Supporting Files */ = {
+		9EA2B10F1A9E48B800E9F39A /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
-				9EFB1C3D1A9E1E9300599B97 /* Info.plist */,
-				9EFB1C3E1A9E1E9300599B97 /* main.m */,
+				9EA2B1101A9E48B800E9F39A /* Info.plist */,
+				9EA2B1111A9E48B800E9F39A /* main.m */,
 			);
 			name = "Supporting Files";
 			sourceTree = "<group>";
 		};
-		9EFB1C551A9E1E9400599B97 /* DesafioTableViewTests */ = {
+		9EA2B1281A9E48B800E9F39A /* DesafioTableViewTests */ = {
 			isa = PBXGroup;
 			children = (
-				9EFB1C581A9E1E9400599B97 /* DesafioTableViewTests.m */,
-				9EFB1C561A9E1E9400599B97 /* Supporting Files */,
+				9EA2B12B1A9E48B800E9F39A /* DesafioTableViewTests.m */,
+				9EA2B1291A9E48B800E9F39A /* Supporting Files */,
 			);
 			path = DesafioTableViewTests;
 			sourceTree = "<group>";
 		};
-		9EFB1C561A9E1E9400599B97 /* Supporting Files */ = {
+		9EA2B1291A9E48B800E9F39A /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
-				9EFB1C571A9E1E9400599B97 /* Info.plist */,
+				9EA2B12A1A9E48B800E9F39A /* Info.plist */,
 			);
 			name = "Supporting Files";
 			sourceTree = "<group>";
@@ -127,13 +127,13 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		9EFB1C381A9E1E9300599B97 /* DesafioTableView */ = {
+		9EA2B10B1A9E48B800E9F39A /* DesafioTableView */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 9EFB1C5C1A9E1E9400599B97 /* Build configuration list for PBXNativeTarget "DesafioTableView" */;
+			buildConfigurationList = 9EA2B12F1A9E48B800E9F39A /* Build configuration list for PBXNativeTarget "DesafioTableView" */;
 			buildPhases = (
-				9EFB1C351A9E1E9300599B97 /* Sources */,
-				9EFB1C361A9E1E9300599B97 /* Frameworks */,
-				9EFB1C371A9E1E9300599B97 /* Resources */,
+				9EA2B1081A9E48B800E9F39A /* Sources */,
+				9EA2B1091A9E48B800E9F39A /* Frameworks */,
+				9EA2B10A1A9E48B800E9F39A /* Resources */,
 			);
 			buildRules = (
 			);
@@ -141,46 +141,46 @@
 			);
 			name = DesafioTableView;
 			productName = DesafioTableView;
-			productReference = 9EFB1C391A9E1E9300599B97 /* DesafioTableView.app */;
+			productReference = 9EA2B10C1A9E48B800E9F39A /* DesafioTableView.app */;
 			productType = "com.apple.product-type.application";
 		};
-		9EFB1C511A9E1E9300599B97 /* DesafioTableViewTests */ = {
+		9EA2B1241A9E48B800E9F39A /* DesafioTableViewTests */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 9EFB1C5F1A9E1E9400599B97 /* Build configuration list for PBXNativeTarget "DesafioTableViewTests" */;
+			buildConfigurationList = 9EA2B1321A9E48B800E9F39A /* Build configuration list for PBXNativeTarget "DesafioTableViewTests" */;
 			buildPhases = (
-				9EFB1C4E1A9E1E9300599B97 /* Sources */,
-				9EFB1C4F1A9E1E9300599B97 /* Frameworks */,
-				9EFB1C501A9E1E9300599B97 /* Resources */,
+				9EA2B1211A9E48B800E9F39A /* Sources */,
+				9EA2B1221A9E48B800E9F39A /* Frameworks */,
+				9EA2B1231A9E48B800E9F39A /* Resources */,
 			);
 			buildRules = (
 			);
 			dependencies = (
-				9EFB1C541A9E1E9300599B97 /* PBXTargetDependency */,
+				9EA2B1271A9E48B800E9F39A /* PBXTargetDependency */,
 			);
 			name = DesafioTableViewTests;
 			productName = DesafioTableViewTests;
-			productReference = 9EFB1C521A9E1E9300599B97 /* DesafioTableViewTests.xctest */;
+			productReference = 9EA2B1251A9E48B800E9F39A /* DesafioTableViewTests.xctest */;
 			productType = "com.apple.product-type.bundle.unit-test";
 		};
 /* End PBXNativeTarget section */
 
 /* Begin PBXProject section */
-		9EFB1C311A9E1E9300599B97 /* Project object */ = {
+		9EA2B1041A9E48B800E9F39A /* Project object */ = {
 			isa = PBXProject;
 			attributes = {
 				LastUpgradeCheck = 0610;
 				ORGANIZATIONNAME = "Orleans Klaus";
 				TargetAttributes = {
-					9EFB1C381A9E1E9300599B97 = {
+					9EA2B10B1A9E48B800E9F39A = {
 						CreatedOnToolsVersion = 6.1.1;
 					};
-					9EFB1C511A9E1E9300599B97 = {
+					9EA2B1241A9E48B800E9F39A = {
 						CreatedOnToolsVersion = 6.1.1;
-						TestTargetID = 9EFB1C381A9E1E9300599B97;
+						TestTargetID = 9EA2B10B1A9E48B800E9F39A;
 					};
 				};
 			};
-			buildConfigurationList = 9EFB1C341A9E1E9300599B97 /* Build configuration list for PBXProject "DesafioTableView" */;
+			buildConfigurationList = 9EA2B1071A9E48B800E9F39A /* Build configuration list for PBXProject "DesafioTableView" */;
 			compatibilityVersion = "Xcode 3.2";
 			developmentRegion = English;
 			hasScannedForEncodings = 0;
@@ -188,29 +188,29 @@
 				en,
 				Base,
 			);
-			mainGroup = 9EFB1C301A9E1E9300599B97;
-			productRefGroup = 9EFB1C3A1A9E1E9300599B97 /* Products */;
+			mainGroup = 9EA2B1031A9E48B800E9F39A;
+			productRefGroup = 9EA2B10D1A9E48B800E9F39A /* Products */;
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				9EFB1C381A9E1E9300599B97 /* DesafioTableView */,
-				9EFB1C511A9E1E9300599B97 /* DesafioTableViewTests */,
+				9EA2B10B1A9E48B800E9F39A /* DesafioTableView */,
+				9EA2B1241A9E48B800E9F39A /* DesafioTableViewTests */,
 			);
 		};
 /* End PBXProject section */
 
 /* Begin PBXResourcesBuildPhase section */
-		9EFB1C371A9E1E9300599B97 /* Resources */ = {
+		9EA2B10A1A9E48B800E9F39A /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				9EFB1C481A9E1E9300599B97 /* Main.storyboard in Resources */,
-				9EFB1C4D1A9E1E9300599B97 /* LaunchScreen.xib in Resources */,
-				9EFB1C4A1A9E1E9300599B97 /* Images.xcassets in Resources */,
+				9EA2B11B1A9E48B800E9F39A /* Main.storyboard in Resources */,
+				9EA2B1201A9E48B800E9F39A /* LaunchScreen.xib in Resources */,
+				9EA2B11D1A9E48B800E9F39A /* Images.xcassets in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		9EFB1C501A9E1E9300599B97 /* Resources */ = {
+		9EA2B1231A9E48B800E9F39A /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -220,48 +220,48 @@
 /* End PBXResourcesBuildPhase section */
 
 /* Begin PBXSourcesBuildPhase section */
-		9EFB1C351A9E1E9300599B97 /* Sources */ = {
+		9EA2B1081A9E48B800E9F39A /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				9EFB1C421A9E1E9300599B97 /* AppDelegate.m in Sources */,
-				9EFB1C3F1A9E1E9300599B97 /* main.m in Sources */,
-				9EFB1C641A9E1ED000599B97 /* AplicativoTableViewController.m in Sources */,
-				9EFB1C671A9E1F0F00599B97 /* DetalheAppTableViewCell.m in Sources */,
+				9EA2B1151A9E48B800E9F39A /* AppDelegate.m in Sources */,
+				9EA2B1121A9E48B800E9F39A /* main.m in Sources */,
+				9EA2B13A1A9E497B00E9F39A /* DetalheAplicativoTableViewCell.m in Sources */,
+				9EA2B1371A9E495400E9F39A /* AplicativoTableViewController.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		9EFB1C4E1A9E1E9300599B97 /* Sources */ = {
+		9EA2B1211A9E48B800E9F39A /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				9EFB1C591A9E1E9400599B97 /* DesafioTableViewTests.m in Sources */,
+				9EA2B12C1A9E48B800E9F39A /* DesafioTableViewTests.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXSourcesBuildPhase section */
 
 /* Begin PBXTargetDependency section */
-		9EFB1C541A9E1E9300599B97 /* PBXTargetDependency */ = {
+		9EA2B1271A9E48B800E9F39A /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
-			target = 9EFB1C381A9E1E9300599B97 /* DesafioTableView */;
-			targetProxy = 9EFB1C531A9E1E9300599B97 /* PBXContainerItemProxy */;
+			target = 9EA2B10B1A9E48B800E9F39A /* DesafioTableView */;
+			targetProxy = 9EA2B1261A9E48B800E9F39A /* PBXContainerItemProxy */;
 		};
 /* End PBXTargetDependency section */
 
 /* Begin PBXVariantGroup section */
-		9EFB1C461A9E1E9300599B97 /* Main.storyboard */ = {
+		9EA2B1191A9E48B800E9F39A /* Main.storyboard */ = {
 			isa = PBXVariantGroup;
 			children = (
-				9EFB1C471A9E1E9300599B97 /* Base */,
+				9EA2B11A1A9E48B800E9F39A /* Base */,
 			);
 			name = Main.storyboard;
 			sourceTree = "<group>";
 		};
-		9EFB1C4B1A9E1E9300599B97 /* LaunchScreen.xib */ = {
+		9EA2B11E1A9E48B800E9F39A /* LaunchScreen.xib */ = {
 			isa = PBXVariantGroup;
 			children = (
-				9EFB1C4C1A9E1E9300599B97 /* Base */,
+				9EA2B11F1A9E48B800E9F39A /* Base */,
 			);
 			name = LaunchScreen.xib;
 			sourceTree = "<group>";
@@ -269,7 +269,7 @@
 /* End PBXVariantGroup section */
 
 /* Begin XCBuildConfiguration section */
-		9EFB1C5A1A9E1E9400599B97 /* Debug */ = {
+		9EA2B12D1A9E48B800E9F39A /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -311,7 +311,7 @@
 			};
 			name = Debug;
 		};
-		9EFB1C5B1A9E1E9400599B97 /* Release */ = {
+		9EA2B12E1A9E48B800E9F39A /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -347,7 +347,7 @@
 			};
 			name = Release;
 		};
-		9EFB1C5D1A9E1E9400599B97 /* Debug */ = {
+		9EA2B1301A9E48B800E9F39A /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
@@ -357,7 +357,7 @@
 			};
 			name = Debug;
 		};
-		9EFB1C5E1A9E1E9400599B97 /* Release */ = {
+		9EA2B1311A9E48B800E9F39A /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
@@ -367,7 +367,7 @@
 			};
 			name = Release;
 		};
-		9EFB1C601A9E1E9400599B97 /* Debug */ = {
+		9EA2B1331A9E48B800E9F39A /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				BUNDLE_LOADER = "$(TEST_HOST)";
@@ -386,7 +386,7 @@
 			};
 			name = Debug;
 		};
-		9EFB1C611A9E1E9400599B97 /* Release */ = {
+		9EA2B1341A9E48B800E9F39A /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				BUNDLE_LOADER = "$(TEST_HOST)";
@@ -404,32 +404,32 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		9EFB1C341A9E1E9300599B97 /* Build configuration list for PBXProject "DesafioTableView" */ = {
+		9EA2B1071A9E48B800E9F39A /* Build configuration list for PBXProject "DesafioTableView" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				9EFB1C5A1A9E1E9400599B97 /* Debug */,
-				9EFB1C5B1A9E1E9400599B97 /* Release */,
+				9EA2B12D1A9E48B800E9F39A /* Debug */,
+				9EA2B12E1A9E48B800E9F39A /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		9EFB1C5C1A9E1E9400599B97 /* Build configuration list for PBXNativeTarget "DesafioTableView" */ = {
+		9EA2B12F1A9E48B800E9F39A /* Build configuration list for PBXNativeTarget "DesafioTableView" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				9EFB1C5D1A9E1E9400599B97 /* Debug */,
-				9EFB1C5E1A9E1E9400599B97 /* Release */,
+				9EA2B1301A9E48B800E9F39A /* Debug */,
+				9EA2B1311A9E48B800E9F39A /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 		};
-		9EFB1C5F1A9E1E9400599B97 /* Build configuration list for PBXNativeTarget "DesafioTableViewTests" */ = {
+		9EA2B1321A9E48B800E9F39A /* Build configuration list for PBXNativeTarget "DesafioTableViewTests" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				9EFB1C601A9E1E9400599B97 /* Debug */,
-				9EFB1C611A9E1E9400599B97 /* Release */,
+				9EA2B1331A9E48B800E9F39A /* Debug */,
+				9EA2B1341A9E48B800E9F39A /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 		};
 /* End XCConfigurationList section */
 	};
-	rootObject = 9EFB1C311A9E1E9300599B97 /* Project object */;
+	rootObject = 9EA2B1041A9E48B800E9F39A /* Project object */;
 }
