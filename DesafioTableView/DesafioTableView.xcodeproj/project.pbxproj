@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		8B4A33471AA099F000A2B56B /* celulaTableViewCell.m in Sources */ = {isa = PBXBuildFile; fileRef = 8B4A33461AA099F000A2B56B /* celulaTableViewCell.m */; };
 		9EA2B1121A9E48B800E9F39A /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 9EA2B1111A9E48B800E9F39A /* main.m */; };
 		9EA2B1151A9E48B800E9F39A /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 9EA2B1141A9E48B800E9F39A /* AppDelegate.m */; };
 		9EA2B11B1A9E48B800E9F39A /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 9EA2B1191A9E48B800E9F39A /* Main.storyboard */; };
@@ -28,6 +29,8 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		8B4A33451AA099F000A2B56B /* celulaTableViewCell.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = celulaTableViewCell.h; sourceTree = "<group>"; };
+		8B4A33461AA099F000A2B56B /* celulaTableViewCell.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = celulaTableViewCell.m; sourceTree = "<group>"; };
 		9EA2B10C1A9E48B800E9F39A /* DesafioTableView.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = DesafioTableView.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		9EA2B1101A9E48B800E9F39A /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		9EA2B1111A9E48B800E9F39A /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
@@ -91,6 +94,8 @@
 				9EA2B1381A9E497B00E9F39A /* DetalheAplicativoTableViewCell.h */,
 				9EA2B1391A9E497B00E9F39A /* DetalheAplicativoTableViewCell.m */,
 				9EA2B1191A9E48B800E9F39A /* Main.storyboard */,
+				8B4A33451AA099F000A2B56B /* celulaTableViewCell.h */,
+				8B4A33461AA099F000A2B56B /* celulaTableViewCell.m */,
 				9EA2B11C1A9E48B800E9F39A /* Images.xcassets */,
 				9EA2B11E1A9E48B800E9F39A /* LaunchScreen.xib */,
 				9EA2B10F1A9E48B800E9F39A /* Supporting Files */,
@@ -227,6 +232,7 @@
 				9EA2B1151A9E48B800E9F39A /* AppDelegate.m in Sources */,
 				9EA2B1121A9E48B800E9F39A /* main.m in Sources */,
 				9EA2B13A1A9E497B00E9F39A /* DetalheAplicativoTableViewCell.m in Sources */,
+				8B4A33471AA099F000A2B56B /* celulaTableViewCell.m in Sources */,
 				9EA2B1371A9E495400E9F39A /* AplicativoTableViewController.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -420,6 +426,7 @@
 				9EA2B1311A9E48B800E9F39A /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		9EA2B1321A9E48B800E9F39A /* Build configuration list for PBXNativeTarget "DesafioTableViewTests" */ = {
 			isa = XCConfigurationList;
@@ -428,6 +435,7 @@
 				9EA2B1341A9E48B800E9F39A /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};

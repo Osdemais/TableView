@@ -7,16 +7,12 @@
 //
 
 #import <UIKit/UIKit.h>
+#import "celulaTableViewCell.h"
 
 @interface AplicativoTableViewController : UITableViewController
 
 @property (strong, nonatomic) NSMutableDictionary *dicionarioMutavelAplicativo;
 
-@property (weak, nonatomic) IBOutlet UILabel *labelNomeAplicativo;
-@property (weak, nonatomic) IBOutlet UILabel *labelCategoriaAplicativo;
-@property (weak, nonatomic) IBOutlet UIImageView *imageAplicativo;
 
-- (IBAction)buttonDeletar:(UIButton *)sender;
-- (IBAction)buttonAlterar:(UIButton *)sender;
 
 @end
